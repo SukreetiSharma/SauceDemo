@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import Pages.LoginPage ;
 
 public class PageFactory {
-    WebDriver driver;
+    public static WebDriver driver;
     public LoginPage loginPage ;
 
     public PageFactory(WebDriver driver){
@@ -17,4 +17,5 @@ public class PageFactory {
         }
         return loginPage;
     }
+
 }
