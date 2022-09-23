@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc233c52-4d8e-4561-b065-d55cb9918181" name="Changes" comment="Hybrid Framework">
-      <change afterPath="$PROJECT_DIR$/Report/Cucumber.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/XMLReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/cucumberReport" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/AddProductToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Verification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClass/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/Cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/Cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/XMLReport.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Report/XMLReport.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/cucumberReport" beforeDir="false" afterPath="$PROJECT_DIR$/Report/cucumberReport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Features/BuyProduct.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/BuyProduct.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pagefactory/PageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pagefactory/PageFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Reports/ExtentReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Reports/Listener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RunnerClass/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunnerClass/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/AddProductSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/AddProductSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestData/Data.property" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData/Data.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -120,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663777780311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hybrid Framework">
+      <created>1663926845078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663926845078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
