@@ -5,6 +5,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import BaseClass.BaseClass;
 
+import java.io.IOException;
+
 public class AddProductSteps extends BaseClass{
 
     @Given("user is able to login")
@@ -19,7 +21,7 @@ public class AddProductSteps extends BaseClass{
     }
 
     @When("user is able to checkout")
-    public void user_is_able_to_checkout() {
+    public void user_is_able_to_checkout() throws IOException {
         obj.getCheckoutDetails().CheckoutDetails();
     }
 
